@@ -1,0 +1,38 @@
+{
+    "name": "hadiy/programersforce",
+    "autoload": {
+        "psr-4": {
+            "Hadiy\\Programersforce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hadiya8149",
+            "email": "hadiya8149@gmail.com"
+        }
+    ],
+    "require": {
+        "clgsru/composer-modify-autoload": "^1.0",
+        "ext-ctype": "*",
+        "ext-dom": "*",
+        "ext-zlib": "*",
+        "ext-zip": "*",
+        "ext-fileinfo": "*",
+        "ext-libxml": "*",
+        "ext-xml": "*",
+        "psr/simple-cache": "^3.0",
+        "psr/http-factory": "^1.1",
+        "psr/http-client": "^1.0",
+        "markbaker/matrix": "^3.0",
+        "markbaker/complex": "^3.0",
+        "maennchen/zipstream-php": "^3.1",
+        "ext-xmlwriter": "*",
+        "ext-xmlreader": "*",
+        "ext-simplexml": "*",
+        "ext-mbstring": "*",
+        "ext-iconv": "*",
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^2.2"
+        
+    }
+}
